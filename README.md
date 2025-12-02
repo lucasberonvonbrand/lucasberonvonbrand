@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 # 💫 Sobre Mí:
-💻 Desarrollador Backend Java | Spring Boot<br>🚀 Construyendo APIs REST y diseñando Microservicios escalables.<br>🧠 Enfocado en Spring Security (JWT/OAuth2) y arquitectura moderna de software.<br>🎓 Licenciado en Gestión de Tecnología y Técnico en Programación.<br>🌟 Buscando mi primera oportunidad para aportar valor y seguir aprendiendo.
+💻 Desarrollador Backend Java | Spring Boot<br>🚀 Construyendo APIs REST y diseñando Microservicios escalables.<br>🧠 Enfocado en Spring Security (JWT/OAuth2) y arquitectura moderna de software.<br>🎓 Licenciado en Gestión de Tecnología (UNLaM) y Técnico en Programación (UNLZ).<br>🌟 Buscando mi primera oportunidad para aportar valor y seguir aprendiendo.
 
 
 ## 🌐 Contacto:
