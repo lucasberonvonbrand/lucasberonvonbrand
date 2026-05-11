@@ -1,5 +1,5 @@
 ![Header](./github-header-banner.png)
-s
+
 # Perfil Profesional
 
 **Java Backend Developer | QA Automation Tester**
