@@ -4,7 +4,7 @@
 
 **Java Backend Developer | QA Analyst & Automation**
 
-* ✔️ Desarrollando APIs REST con Spring Boot, Spring Security (JWT/OAuth2) y arquitectura de microservicios y contenerización con Docker.
+* ✔️ Desarrollando APIs REST con Spring Boot, Spring Security (JWT/OAuth2), arquitectura de microservicios y contenerización con Docker.
 * ✔️ Experiencia en QA Automation con JUnit, Mockito, MockMvc, Selenium y Cucumber (BDD).
 * ✔️ Proyecto de tesis: plataforma backend con Machine Learning (Weka) e IA generativa (Google Gemini).
 * ✔️ Licenciado en Gestión de Tecnología (UNLaM) y Técnico en Programación (UNLZ).
